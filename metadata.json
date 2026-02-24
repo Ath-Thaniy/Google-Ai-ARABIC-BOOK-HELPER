@@ -1,0 +1,5 @@
+{
+  "name": "Arabic Book Translator",
+  "description": "Upload Arabic PDF books to get full transcription with tashkeel and sentence-by-sentence English translation.",
+  "requestFramePermissions": []
+}
